@@ -22,7 +22,7 @@ Nova is an **offline voice-controlled assistant** built in Python using the [Vos
     "Wakeup Nova"
 
 ## To deactivate or put the assistant to sleep:
--  Say any of the following:
+-  Say of the following:
      "Good buy"
 
 ## command and action
