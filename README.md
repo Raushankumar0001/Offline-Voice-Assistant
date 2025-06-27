@@ -14,7 +14,7 @@ Nova is an **offline voice-controlled assistant** built in Python using the [Vos
 
 ---
 
-##🔊 Wake Words
+## 🔊 Wake Words
 -  Say any of the following:
 
     "Hey Nova"
