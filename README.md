@@ -41,4 +41,9 @@ Nova is an **offline voice-controlled assistant** built in Python using the [Vos
 
 ## 📂 Project Structure
 
--model.py
+Offline Voice Assistant/
+│
+├── model.py # Main assistant code
+├── download_model.py # Downloads Vosk model automatically
+├── requirements.txt # Python dependencies
+└── README.md # You're reading this
