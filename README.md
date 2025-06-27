@@ -47,6 +47,6 @@ Offline Voice Assistant/
 ├── assistant.py              # Main assistant script
 ├── download_model.py         # Downloads and extracts the Vosk model
 ├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-└── vosk-model-small-en-us-0.15/   # Auto-downloaded model folder (excluded from Git)
+└──   README.md                 # Project documentation
+
 
