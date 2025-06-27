@@ -24,6 +24,7 @@ Nova is an **offline voice-controlled assistant** built in Python using the [Vos
 ## To deactivate or put the assistant to sleep:
 -  Say of the following:
      "Good buy"
+---
 
 ## command and action
 
@@ -36,14 +37,14 @@ Nova is an **offline voice-controlled assistant** built in Python using the [Vos
 | `switch on all electric devices`  | Turns on all devices    |
 | `switch off all electric devices` | Turns off all devices   |
 | `what's the time`                 | Tells the current time  |
-            
-   
+        
+---
 
 ## 📂 Project Structure
 
-Offline Voice Assistant/
-│
-├── model.py # Main assistant code
-├── download_model.py # Downloads Vosk model automatically
-├── requirements.txt # Python dependencies
-└── README.md # You're reading this
+-- Offline Voice Assistant/
+
+ model.py # Main assistant code
+ download_model.py # Downloads Vosk model automatically
+ requirements.txt # Python dependencies
+ README.md # You're reading this
